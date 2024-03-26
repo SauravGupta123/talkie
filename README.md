@@ -14,10 +14,7 @@ Talkie is a real-time communication app built with the MERN stack, Socket.io, Ta
 ## Installation Guide 🌟
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/AshuKr22/Talkie.git
-   cd Talkie
-   ```
+  
 
 2. **Install Dependencies**:
    ```bash
